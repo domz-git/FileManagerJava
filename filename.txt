@@ -1,0 +1,1 @@
+doesn't change the original String, it returns a new one that's been changed. If you don't assign the result to text, then that new String is lost and garbage collected.
